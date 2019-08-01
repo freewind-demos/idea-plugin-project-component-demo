@@ -20,6 +20,10 @@ intellij {
     plugins = []
 }
 
+compileKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}
+
 repositories {
     jcenter()
 }

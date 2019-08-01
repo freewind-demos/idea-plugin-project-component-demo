@@ -1,5 +1,5 @@
-Idea Plugin Hello World Demo
-=======================
+Idea Plugin Project Component Demo
+==================================
 
 Run plugin in IDEA
 ------------------
